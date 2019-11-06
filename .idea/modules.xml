@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ICS3U_unit3classnotes.iml" filepath="$PROJECT_DIR$/.idea/ICS3U_unit3classnotes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ICS3U_classnotes.iml" filepath="$PROJECT_DIR$/.idea/ICS3U_classnotes.iml" />
     </modules>
   </component>
 </project>
